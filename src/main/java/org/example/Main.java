@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("hjhhjfg76");
     java con = new java();
-    con.openConnection();
+    con.conn();
 
 
     }
